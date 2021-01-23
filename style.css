@@ -1,5 +1,18 @@
+html {
+  font-family: Arial;
+}
+
 body {
   background-color: #101927;
+}
+
+a, span{
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #b9b9b9;
 }
 
 .center {
