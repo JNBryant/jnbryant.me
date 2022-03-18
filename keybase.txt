@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jadenbryant
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jadenbryant.dev
+  * I am jadenbryant (https://keybase.io/jadenbryant) on keybase.
+  * I have a public key ASBREC15zWQlKsFZKF1_fEzm5cRj7umyTAJ5oGKX3p7DIgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203e09472c8fe31431e766af31f4ea6bbed0f087a8b73b768f83ea35b8ba25bda40a",
+      "host": "keybase.io",
+      "kid": "012051102d79cd64252ac159285d7f7c4ce6e5c463eee9b24c0279a06297de9ec3220a",
+      "uid": "fe073aedd573708d2129899bc982dd19",
+      "username": "jadenbryant"
+    },
+    "merkle_root": {
+      "ctime": 1647623627,
+      "hash": "509704771a0e2109b021036abca9ba9a0047a54943e2c255727b41ccb28fe0ee6e0a3dbf6588ccd223c2329f1da96c6c4a0ff05984bfca5328b1cceb29826b24",
+      "hash_meta": "886d5a6eb4641b6b5ec1ac5f17e52f14dbeeae4b00567f77ae0bf0d0b768f07c",
+      "seqno": 22113316
+    },
+    "service": {
+      "entropy": "bqajeHR+JLTIEbO55EsfcJUl",
+      "hostname": "jadenbryant.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.2"
+  },
+  "ctime": 1647623642,
+  "expire_in": 504576000,
+  "prev": "7879dabba3e023e4b756f87e876131153a62fc487682ac2e787ccc6a375c7ff3",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgURAtec1kJSrBWShdf3xM5uXEY+7pskwCeaBil96ewyIKp3BheWxvYWTESpcCCMQgeHnau6PgI+S3Vvh+h2ExFTpi/Eh2gqwueHzMajdcf/PEIDT+jU0iZ2gZJ9lsCjWNiGVmoWByaGxjKmi9QG4y6xP5AgHCo3NpZ8RAJjVZmbMxZtuQFcR7Ai1Gp8luyCfRH357k4gZjCDHF3JWX6f66YuWf+24HZvdC8Dg+cbJ5vZiXMpQ7TlasfZCB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBlkNQTHEHHkUQ7Rxi8+kqukgfiTOrUnpBHICD8lYwWNo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jadenbryant
+
+==================================================================
